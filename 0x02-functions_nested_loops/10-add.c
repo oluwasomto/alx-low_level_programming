@@ -4,7 +4,7 @@
  * @i: the variable holds a value in the main program
  * @j: the variable holds a value in the main program
  *
- * return: the return value is the addition of the other values
+ * Return: the return value is the addition of the other values
  */
 
 int add(int i, int j)
