@@ -17,15 +17,12 @@ char *_strchr(char *s, char c)
 	{
 		if (s[index] == c)
 		{
-			return (s - 1);
+			return (s + 2);
 		}
 		if (s[index] == 0)
 		{
 			return (NULL);
 		}
-
 	}
 
 }
-
-
